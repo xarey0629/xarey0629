@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋Hi there! 
 ### 🔭I'm currently a master's degree student at National Taiwan University. 
 ### 🌱Developing and drilling in computer science is the goal I am pursuing.
 
