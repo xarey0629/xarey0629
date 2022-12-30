@@ -1,4 +1,5 @@
 ### Hi there 👋
+🔭I'm currently a master's degree student at National Taiwan University. Developing and drilling in computer science is the goal I am pursuing.
 
 <!--
 **xarey0629/xarey0629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
