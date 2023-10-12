@@ -1,5 +1,5 @@
 ### 👋Hi there! 
-### 🔭I'm currently a master's degree student at National Taiwan University. 
+### 🔭I'm currently a CS master's degree student at The University of Edinburgh. 
 ### 🌱Developing and drilling in computer science is the goal I am pursuing.
 
 <!--
