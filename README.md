@@ -1,6 +1,6 @@
-### 👋Hi there! 
-### 🔭I'm a computer science master's degree student at The University of Edinburgh. 
-### 🌱Developing and drilling in computer science is whaa I am pursuing.
+### 👋Hi there! I am Ed.
+### 🔭I'm a MSc CS student at The University of Edinburgh. 
+### 🌱Developing and drilling in computer science is what I am pursuing.
 
 <!--
 **xarey0629/xarey0629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
