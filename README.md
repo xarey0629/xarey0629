@@ -1,5 +1,5 @@
 ### 👋Hi there! I am Ed.
-### 🔭I'm a MSc CS student at The University of Edinburgh. 
+### 🔭I'm an MSc CS student at The University of Edinburgh. 
 ### 🌱Developing and drilling in computer science is what I am pursuing.
 
 <!--
